@@ -1,4 +1,4 @@
-# ga-cards
+# Angular: GA Cards
 
 ## Getting Started
 
