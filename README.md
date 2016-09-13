@@ -1,6 +1,6 @@
 # Angular: GA Cards
 
-## Getting Started
+### Getting Started
 
 * Setting up the `index` and `/javascripts/app.js` file
 * Link Angular dependencies
